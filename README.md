@@ -1,5 +1,6 @@
-Hi! I'm Marcos Esqued
+Hi! I'm Marcos Esqueda 
 
-- I do code and programming JavaScript 
-- I'm currently learning more about React enviroment 
-- This is my LinkedIn profile: [https://www.linkedin.com/in/marcos-esqueda/](marcos-esqueda)
+- I do coding and programming in JavaScript 💻
+- I'm currently learning more about React enviroment  
+- This is my LinkedIn profile: [Marcos Esqueda](https://www.linkedin.com/in/marcos-esqueda/)
+- My English level is B2/C1, se my EFSet Certification: [EFSet](https://www.efset.org/cert/xfKuGP) 
